@@ -1,2 +1,3 @@
 # insta-viewer
-View Instagram Accounts Without Having An Account
+A Firefox Extension To View Instagram Accounts Without Having An Account
+
